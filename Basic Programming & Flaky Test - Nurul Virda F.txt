@@ -1,0 +1,15 @@
+Basic Programming
+-----------------
+1. int, float, double
+2. char, string
+3. 113
+4. 2
+5. 3566GoldenStreetMiami
+
+Flaky Test
+----------
+1. Flaky test is a test that sometimes fails, but after retry for a few times it passes eventually.
+2. Use "wait" until the element shown
+3. CAPTCHA is basically designed to prevent robot interaction with the application.
+But if it's a must to automate the test for CAPTCHA, it can be done by asking developer team to build a workaround / backdoor for this.
+For another solution, testing CAPTCHA can also be automated by recognizing the picture first, but this will take big efforts.
